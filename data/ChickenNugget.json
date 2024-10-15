@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Chicken Nugget",
+    "author": "max528XDX",
+    "creators": ["max528XDX"],
+    "verifier": "max528XDX",
+    "verification": "https://youtu.be/pYf6Glpx6vw",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=1IsxDEu5Llc",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
