@@ -1,0 +1,18 @@
+{
+    "id": 109615352,
+    "name": "RIP Chiken List",
+    "author": "Chiken11",
+    "creators": ["Chiken11"],
+    "verifier": "Chiken11",
+    "verification": "https://youtu.be/OHDDH6eF-H4",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=1IsxDEu5Llc",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
