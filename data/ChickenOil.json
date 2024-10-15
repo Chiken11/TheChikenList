@@ -1,30 +1,36 @@
 {
-    "id": 109137195,
-    "name": "Chiken Miniwave",
-    "author": "Chiken11",
-    "creators": ["Chiken11"],
-    "verifier": "Chiken11",
-    "verification": "https://youtu.be/vJE-0bAhais",
+    "id": 109019510,
+    "name": "Chicken Oil",
+    "author": "Aelaexaendaer",
+    "creators": ["Aelaexaendaer"],
+    "verifier": "Aelaexaendaer",
+    "verification": "https://youtu.be/8ThASQq1nLk",
     "percentToQualify": 100,
     "password": "Free",
     "records": [
         {
-            "user": "Aelaexaendaer",
-            "link": "https://www.youtube.com/watch?v=vQS1yhZVgbA&feature=youtu.be",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "JoeBeSlow",
-            "link": "https://www.youtube.com/watch?v=OEPYSTxzyUk",
+            "link": "https://www.youtube.com/watch?v=SCwVgLpxwtk",
             "percent": 100,
             "hz": 120
         },
         {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=Laxes5G0tPM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "max528XDX",
-            "link": "https://www.youtube.com/watch?v=eHHuBUlmQTo",
+            "link": "https://www.youtube.com/watch?v=NAs53HAh1Ps",
             "percent": 100,
             "hz": 75
+        }
+        {
+            "user": "Younomefrom",
+            "link": "https://www.youtube.com/watch?v=D5I5RVEWjt0",
+            "percent": 100,
+            "hz": 1
         }
     ]
 }
