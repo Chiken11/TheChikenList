@@ -1,0 +1,18 @@
+{
+    "id": 109118947,
+    "name": "Chicken Oil",
+    "author": "GDTomon",
+    "creators": ["GDTomon"],
+    "verifier": "GDTomon",
+    "verification": "https://youtu.be/4HMRvlquwCA",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "Chiken11",
+            "link": "https://youtu.be/3CPSl-_GbUo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
