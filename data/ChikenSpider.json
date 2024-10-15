@@ -1,0 +1,18 @@
+{
+    "id": 108659897,
+    "name": "Chiken Intro",
+    "author": "Therealfive",
+    "creators": ["Therealfive"],
+    "verifier": "Therealfive",
+    "verification": "https://youtu.be/c0HNga0tiN4",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [        
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=BFwJ25tccUQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
