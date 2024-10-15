@@ -1,1 +1,30 @@
-
+{
+    "id": 109077140,
+    "name": "Chicken Dream",
+    "author": "Therealfive",
+    "creators": ["Therealfive"],
+    "verifier": "Therealfive",
+    "verification": "https://youtu.be/KKrh4IMHbdo",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=7ZIuodJ7BjM",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=n3lR8kjb-xY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Aelaexaendaer",
+            "link": "https://www.youtube.com/watch?v=vQS1yhZVgbA&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
