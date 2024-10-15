@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "Fried Chicken",
+    "author": "Chiken11",
+    "creators": ["Chiken11"],
+    "verifier": "Chiken11",
+    "verification": "https://youtu.be/MlCAeZVg6DY",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "Aelaexaendaer",
+            "link": "https://www.youtube.com/watch?v=lsUXBtmuH4M",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=qbV2T3zTm4M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
