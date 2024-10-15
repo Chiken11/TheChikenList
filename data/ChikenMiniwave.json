@@ -8,5 +8,23 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [
+        {
+            "user": "Aelaexaendaer",
+            "link": "https://www.youtube.com/watch?v=vQS1yhZVgbA&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=OEPYSTxzyUk",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "max528XDX",
+            "link": "https://www.youtube.com/watch?v=eHHuBUlmQTo",
+            "percent": 100,
+            "hz": 75
+        }
     ]
 }
