@@ -1,0 +1,36 @@
+{
+    "id": 109118947,
+    "name": "Chicken Shright",
+    "author": "Therealfive",
+    "creators": ["Therealfive"],
+    "verifier": "Therealfive",
+    "verification": "https://www.youtube.com/watch?v=NDiddTcEB5E",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=GzU-z2rzcrw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=mwWXEhd-FeI",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Aelaexaendaer",
+            "link": "https://www.youtube.com/watch?v=vQS1yhZVgbA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "max528XDX",
+            "link": "https://www.youtube.com/watch?v=1yc9PVVookI",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
+}
