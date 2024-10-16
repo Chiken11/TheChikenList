@@ -1,30 +1,12 @@
 {
-    "id": 109056664,
-    "name": "Chicken Chiken1",
-    "author": "Therealfive",
-    "creators": ["Therealfive"],
-    "verifier": "Therealfive",
-    "verification": "https://youtu.be/ing9lDri7jQ",
+    "id": 110758929,
+    "name": "Chicken Depression 2",
+    "author": "GDTomon",
+    "creators": ["GDTomon"],
+    "verifier": "GDTomon",
+    "verification": "https://www.youtube.com/watch?v=fjtNSeBLrAE",
     "percentToQualify": 100,
     "password": "Free",
     "records": [
-        {
-            "user": "JoeBeSlow",
-            "link": "https://www.youtube.com/watch?v=EmqFWxon6SM",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Chiken11",
-            "link": "https://www.youtube.com/watch?v=n3lR8kjb-xY",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Aelaexaendaer",
-            "link": "https://www.youtube.com/watch?v=vQS1yhZVgbA",
-            "percent": 100,
-            "hz": 240
-        },
     ]
 }
