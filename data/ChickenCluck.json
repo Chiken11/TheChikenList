@@ -1,0 +1,30 @@
+{
+    "id": 108867477,
+    "name": "Chicken Cluck",
+    "author": "Therealfive",
+    "creators": ["Therealfive"],
+    "verifier": "Therealfive",
+    "verification": "https://www.youtube.com/watch?v=HfYqpNBhGtU",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=KvWazQxeGyE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=vC_aP7rmvvM",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Aelaexaendaer",
+            "link": "https://www.youtube.com/watch?v=t5pwKT4ujFA",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
+}
